@@ -1,0 +1,25 @@
+.card {
+    background:  #e1e7f3;
+}
+.priority {
+  font-size: 12px;
+  padding: 4px 8px;
+  border-radius: 999px;
+  background: #abb8d3;
+}
+
+.priority-low {
+  color: rgb(148, 255, 105);
+}
+
+.priority-medium {
+  color: rgb(255, 246, 123);
+}
+
+.priority-high {
+  color: rgb(248, 116, 40);
+}
+
+.priority-urgent {
+  color: rgb(255, 33, 33);
+}
